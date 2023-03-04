@@ -48,7 +48,7 @@ public class BootSpringBootApplication {
 <img width ="40%" height ="30%" src="https://culverduck.com/wp-content/uploads/2020/11/duck-animate-1-500x500.png">
 </img>
 
-[![Video Label](https://img.youtube.com/vi/10P0269ef8I&t/0.jpg)](https://www.youtube.com/watch?v=10P0269ef8I&t)
+[![Video Label](https://img.youtube.com/vi/10P0269ef8I/0.jpg)](https://www.youtube.com/watch?v=10P0269ef8I)
 
 abc   
 ~~def~~
